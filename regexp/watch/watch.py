@@ -13,7 +13,7 @@ def parse(s):
        pattern_out = match.group(1)
        return f"https://youtu.be/{pattern_out}"
    return None
-#Cant believ ive been rickrolled in 2024!
+#Cant believe ive been rickrolled in 2024!
 #Well played
 
 if __name__ == "__main__":
